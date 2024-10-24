@@ -1,6 +1,6 @@
 {
-"spider":"https://gitlink.org.cn/api/wxwb/tt/raw/dj/duanju.jar?ref=master;md5;cf00cc8baef423e51187750ac973417d",
-"spider": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/duanju.jar?ref=master",
+"spider":"./duanju.jar;md5;cf00cc8baef423e51187750ac973417d",
+"spider": "./duanju.jar",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
        {
@@ -8,7 +8,7 @@
       "name": "涛哥短剧",
       "type": 3,
       "api": "csp_YMduanju",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/ymz.jar?ref=master",
+      "jar": "./jar/ymz.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -30,7 +30,7 @@
       "key": "Wexduanjuvop",
       "name": "短剧┃秒播",
       "type": 3,
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/wex.txt?ref=master;md5;aaed7918b3aae5960726413304c4f6c2",
+      "jar": "./jar/wex.txt?ref=master;md5;aaed7918b3aae5960726413304c4f6c2",
       "api": "csp_Wexduanjuvop",
       "searchable": 1,
       "changeable": 1
@@ -39,7 +39,7 @@
       "key": "Wexduanjuhema",
       "name": "短剧┃仙品",
       "type": 3,
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/wex.txt?ref=master;md5;aaed7918b3aae5960726413304c4f6c2",
+      "jar": "./jar/wex.txt?ref=master;md5;aaed7918b3aae5960726413304c4f6c2",
       "api": "csp_Wexduanjuhema",
       "searchable": 1,
       "changeable": 1
@@ -77,18 +77,18 @@
       "name": "榜一🍡短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/dongchen.jar?ref=master",
+      "jar": "./jar/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlink.org.cn/api/wxwb/tt/raw/dj//lib/duanjuu.json?ref=master"
+      "ext": ".//lib/duanjuu.json?ref=master"
  },
  {
       "key": "Wexduanjuvop",
       "name": "🌸短劇┃秒播",
       "type": 3,
       "api": "csp_Wexduanjuvop",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
+      "jar": "./jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
       "searchable": 1,
       "changeable": 1
  },
@@ -97,7 +97,7 @@
       "name": "🌸短劇┃极品",
       "type": 3,
       "api": "csp_Wexduanjuvmp",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
+      "jar": "./jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
       "searchable": 1,
       "changeable": 1
  },
@@ -106,7 +106,7 @@
       "name": "😍短剧┃搜索",
       "type": 3,
       "api": "csp_Wexduanjuso",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
+      "jar": "./jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -119,7 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/custom_spider.jar?ref=master;md5;2913291fc4c832e3753573593b727b89",
+      "jar": "./jar/custom_spider.jar;md5;2913291fc4c832e3753573593b727b89",
       "ext": "http://106.52.241.21:83/api.php/app/"
     },
     {
@@ -130,7 +130,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/custom_spider.jar?ref=master;md5;2913291fc4c832e3753573593b727b89",
+      "jar": "./jar/custom_spider.jar;md5;2913291fc4c832e3753573593b727b89",
       "ext": "http://122.228.84.103:6822/api.php/app/"
     },
     {
@@ -141,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/custom_spider.jar?ref=master;md5;2913291fc4c832e3753573593b727b89",
+      "jar": "./jar/custom_spider.jar;md5;2913291fc4c832e3753573593b727b89",
       "ext": "http://106.52.241.21:83/api.php/app/"
     },
     {
@@ -149,7 +149,7 @@
       "name": "🔴rarbt|短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/XBPQ.jar?ref=master",
+      "jar": "./jar/XBPQ.jar",
       "ext": {
         "线路数组": "\"module-tab-item tab-item\"&&</div>",
         "分类": "电影$movie#电视剧$Series#综艺$variety#动漫$cartoon#短剧$duanju",
@@ -161,7 +161,7 @@
       "name": "🔴新视觉影院|短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/XBPQ.jar?ref=master",
+      "jar": "./jar/XBPQ.jar",
       "ext": {
         "二次截取": "\"module-items\"&&\"module-footer\"+\"module-item\"",
         "数组": "\"module-item-cover\"&&\"module-item\"",
@@ -180,7 +180,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/XBPQ.jar?ref=master",
+      "jar": "./jar/XBPQ.jar",
       "ext": {
         "数组": "module-item&&</a>",
         "副标题": "v-item-bottom\">&&</div>",
@@ -204,7 +204,7 @@
       "name": "🔴555zxdy|短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/jar/XBPQ.jar?ref=master",
+      "jar": "./jar/XBPQ.jar",
       "ext": {
         "分类": "电影$1#电视剧$2#短剧$45#动漫$4",
         "分类url": "https://www.555zxdy.com/vod/show/by/{by}/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
@@ -218,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/lib/短剧.json?ref=master"},            
+            "ext": "./lib/短剧.json?ref=master"},            
           {
       "key": "PT",
       "name": "💙短剧四",
@@ -235,7 +235,7 @@
       "name": "🧡短剧五",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/lib/dj2.jar?ref=master",
+      "jar": "./lib/dj2.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -328,7 +328,7 @@
       "name": "💚短剧八",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/lib/dj3.jar?ref=master",
+      "jar": "./lib/dj3.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -342,7 +342,7 @@
       "name": "💜短剧九",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/lib/dj3.jar?ref=master",
+      "jar": "./lib/dj3.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -378,7 +378,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---{year}.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng",
-			"jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/lib/xbpq.jar?ref=master"
+			"jar": "./lib/xbpq.jar"
 		},
     {
       "key": "csp_XYQHiker_VSYY",
@@ -388,8 +388,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/lib/dj4.jar?ref=master",
-      "ext": "https://gitlink.org.cn/api/wxwb/tt/raw/dj/lib/VS影院.json?ref=master"
+      "jar": "./lib/dj4.jar",
+      "ext": "./lib/VS影院.json?ref=master"
     },
 
     {
