@@ -30,7 +30,7 @@
       "key": "Wexduanjuvop",
       "name": "短剧┃秒播",
       "type": 3,
-      "jar": "./jar/wex.txt?ref=master;md5;aaed7918b3aae5960726413304c4f6c2",
+      "jar": "./jar/wex.txt;md5;aaed7918b3aae5960726413304c4f6c2",
       "api": "csp_Wexduanjuvop",
       "searchable": 1,
       "changeable": 1
@@ -39,7 +39,7 @@
       "key": "Wexduanjuhema",
       "name": "短剧┃仙品",
       "type": 3,
-      "jar": "./jar/wex.txt?ref=master;md5;aaed7918b3aae5960726413304c4f6c2",
+      "jar": "./jar/wex.txt;md5;aaed7918b3aae5960726413304c4f6c2",
       "api": "csp_Wexduanjuhema",
       "searchable": 1,
       "changeable": 1
@@ -81,14 +81,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ".//lib/duanjuu.json?ref=master"
+      "ext": ".//lib/duanjuu.json"
  },
  {
       "key": "Wexduanjuvop",
       "name": "🌸短劇┃秒播",
       "type": 3,
       "api": "csp_Wexduanjuvop",
-      "jar": "./jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
+      "jar": "./jar/erwa.txt;md5;b2160310e1a54807295c369aa54f7196",
       "searchable": 1,
       "changeable": 1
  },
@@ -97,7 +97,7 @@
       "name": "🌸短劇┃极品",
       "type": 3,
       "api": "csp_Wexduanjuvmp",
-      "jar": "./jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
+      "jar": "./jar/erwa.txt;md5;b2160310e1a54807295c369aa54f7196",
       "searchable": 1,
       "changeable": 1
  },
@@ -106,7 +106,7 @@
       "name": "😍短剧┃搜索",
       "type": 3,
       "api": "csp_Wexduanjuso",
-      "jar": "./jar/erwa.txt?ref=master;md5;b2160310e1a54807295c369aa54f7196",
+      "jar": "./jar/erwa.txt;md5;b2160310e1a54807295c369aa54f7196",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -218,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/短剧.json?ref=master"},            
+            "ext": "./lib/短剧.json"},            
           {
       "key": "PT",
       "name": "💙短剧四",
@@ -389,7 +389,7 @@
       "filterable": 1,
       "api": "csp_XYQHiker",
       "jar": "./lib/dj4.jar",
-      "ext": "./lib/VS影院.json?ref=master"
+      "ext": "./lib/VS影院.json"
     },
 
     {
@@ -518,7 +518,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://notabug.org/wxwb/tv/raw/master/dy.txt?ref=master"
+      "url": "https://notabug.org/wxwb/tv/raw/master/dy.txt"
     }
   ],
   "ijk": [
