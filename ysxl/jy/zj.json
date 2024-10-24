@@ -1,11 +1,11 @@
 {
-  "spider": "./spider.jar",
+  "spider": "https://ys.2723212.xyz/ysxl/jy/spider.jar",
   "logo": "http://12.qqwxx.cn/a.png",
   "lives": [
     {
       "name": "redirect",
       "type": 0,
-      "url": "./zhijiao/ipv6.txt",
+      "url": "https://ys.2723212.xyz/ysxl/jy/zhijiao/ipv6.txt",
       "epg": ""
     }
   ],
@@ -18,7 +18,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/兴趣培养.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/兴趣培养.json",
       "jar": ""
     },
     {
@@ -29,36 +29,36 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/小灯塔人文.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/小灯塔人文.json",
       "jar": ""
     },
     {
       "key": "腾讯",
       "name": "✨少儿动漫①",
       "type": 3,
-      "api": "./zhijiao/drpy2.min.js",
-      "ext": "./zhijiao/腾讯.js"
+      "api": "https://ys.2723212.xyz/ysxl/jy/zhijiao/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/腾讯.js"
     },
     {
       "key": "芒果",
       "name": "✨少儿动漫②",
       "type": 3,
-      "api": "./zhijiao/drpy2.min.js",
-      "ext": "./zhijiao/忙果.js"
+      "api": "https://ys.2723212.xyz/ysxl/jy/zhijiao/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/忙果.js"
     },
     {
       "key": "奇艺",
       "name": "✨少儿动漫③",
       "type": 3,
-      "api": "./zhijiao/drpy2.min.js",
-      "ext": "./zhijiao/异兽.js"
+      "api": "https://ys.2723212.xyz/ysxl/jy/zhijiao/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/异兽.js"
     },
     {
       "key": "优酷",
       "name": "✨少儿动漫④",
       "type": 3,
-      "api": "./zhijiao/drpy2.min.js",
-      "ext": "./zhijiao/优酷.js"
+      "api": "https://ys.2723212.xyz/ysxl/jy/zhijiao/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/优酷.js"
     },
     {
       "key": "儿童拼音",
@@ -68,7 +68,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童拼音.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童拼音.json",
       "jar": ""
     },
     {
@@ -79,7 +79,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童识字.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童识字.json",
       "jar": ""
     },
     {
@@ -90,7 +90,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童英语.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童英语.json",
       "jar": ""
     },
     {
@@ -101,7 +101,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童硬笔.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童硬笔.json",
       "jar": ""
     },
     {
@@ -112,7 +112,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童思维.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童思维.json",
       "jar": ""
     },
     {
@@ -123,7 +123,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./zhijiao/py_cctv_1.py"
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/py_cctv_1.py"
     },
     {
       "key": "ysjd",
@@ -133,7 +133,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./zhijiao/央视经典.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/央视经典.json",
       "jar": ""
     },
     {
@@ -144,7 +144,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/哔哩哔哩小学.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/哔哩哔哩小学.json",
       "jar": ""
     },
     {
@@ -155,7 +155,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/哔哩哔哩初中.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/哔哩哔哩初中.json",
       "jar": ""
     },
     {
@@ -166,7 +166,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/哔哩哔哩高中.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/哔哩哔哩高中.json",
       "jar": ""
     },
     {
@@ -177,8 +177,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/播视童趣.json",
-      "jar": "./zhijiao/csp_XYQHiker_兔小贝.jar"
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/播视童趣.json",
+      "jar": "https://ys.2723212.xyz/ysxl/jy/zhijiao/csp_XYQHiker_兔小贝.jar"
     },
     {
       "key": "儿童编程",
@@ -188,7 +188,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童编程.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童编程.json",
       "jar": ""
     },
     {
@@ -199,8 +199,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/兔小贝.json",
-      "jar": "./zhijiao/csp_XYQHiker_兔小贝.jar"
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/兔小贝.json",
+      "jar": "https://ys.2723212.xyz/ysxl/jy/zhijiao/csp_XYQHiker_兔小贝.jar"
     },
     {
       "key": "兔小贝2",
@@ -210,8 +210,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/兔小贝2.json",
-      "jar": "./zhijiao/csp_XYQHiker_兔小贝.jar"
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/兔小贝2.json",
+      "jar": "https://ys.2723212.xyz/ysxl/jy/zhijiao/csp_XYQHiker_兔小贝.jar"
     },
     {
       "key": "幼儿启蒙",
@@ -221,7 +221,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/幼儿启蒙.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/幼儿启蒙.json",
       "jar": ""
     },
     {
@@ -232,7 +232,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./zhijiao/益智动画.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/益智动画.json",
       "jar": ""
     },
     {
@@ -243,7 +243,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/幼小衔接.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/幼小衔接.json",
       "jar": ""
     },
     {
@@ -254,7 +254,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/小灯塔百科.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/小灯塔百科.json",
       "jar": ""
     },
     {
@@ -265,7 +265,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/小灯塔科学.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/小灯塔科学.json",
       "jar": ""
     },
     {
@@ -276,7 +276,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/小灯塔地理.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/小灯塔地理.json",
       "jar": ""
     },
     {
@@ -287,7 +287,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/小灯塔国学.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/小灯塔国学.json",
       "jar": ""
     },
     {
@@ -298,7 +298,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/小灯塔人文.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/小灯塔人文.json",
       "jar": ""
     },
     {
@@ -309,7 +309,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童口才.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童口才.json",
       "jar": ""
     },
     {
@@ -320,7 +320,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./zhijiao/儿童武术.json",
+      "ext": "https://ys.2723212.xyz/ysxl/jy/zhijiao/儿童武术.json",
       "jar": ""
     }
   ],
