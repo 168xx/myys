@@ -1,13 +1,13 @@
 {
-	"spider":"https://gitlink.org.cn/api/wxwb/tt/raw/gr/pg.jar?ref=master",
-        "logo": "https://gitee.com/wxbtt/bbtv/raw/master/config/icon.png",
+	"spider":"https://dy.2723212.xyz/box/ttkx.jar",
+        "logo": "https://dy.2723212.xyz/config/icon.png",
 	"sites":[
     {
       "key": "drpy_js_豆瓣",
       "name": "涛涛影视 🇹 个人专用",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/feimao.jar?ref=master;md5;a4a2fad654c06167fcaa4c37cb23ea3f",
+      "jar": "https://dy.2723212.xyz/box/feimao.jar;md5;a4a2fad654c06167fcaa4c37cb23ea3f",
       "searchable": 0
     },
     {
@@ -35,7 +35,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/yuyu.jar?ref=master",
+            "jar": "https://dy.2723212.xyz/box/jar/yuyu.jar",
             "ext": {"分类": "国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
   "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", 
   "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
@@ -69,18 +69,18 @@
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
   "免嗅": "0" 
 }},
- {"key":"rebo","name":"玉玉 🇹 热播","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/yuyu.jar?ref=master","ext":"http://v.rbotv.cn"},
- {"key":"酷看","name":"酷看 🇹 秒播","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/tvkj.jar?ref=master","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
- {"key":"美柏","name":"美柏 🇹 秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/tvkj.jar?ref=master","ext":"https://gitlink.org.cn/api/wxwb/tt/raw/gr/lib/美柏.json"},
- {"key": "mmys","name": "萌米 🇹 影视","type": 3,"api": "csp_AppTT"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/meow6.jar?ref=master;md5;7949BE328984866E5E47D85228DBAC2A"},
- {"key": "nfys","name": "奈飞 🇹 影视","type": 3,"api": "csp_XYQHiker"   ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/xp/奈飞影视.json","jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/meow4.jar?ref=master;md5;369DE8C4321A5C0ED6E7497F93863319"},
- {"key": "yzys","name": "柚子 🇹 影视","type": 3,"api": "csp_AppSK"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/youzi.jar?ref=master;md5;D1115D99527D75948D095085B1407ADD"},
+ {"key":"rebo","name":"玉玉 🇹 热播","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://dy.2723212.xyz/box/jar/yuyu.jar","ext":"http://v.rbotv.cn"},
+ {"key":"酷看","name":"酷看 🇹 秒播","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","jar": "https://dy.2723212.xyz/box/jar/tvkj.jar","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+ {"key":"美柏","name":"美柏 🇹 秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://dy.2723212.xyz/box/jar/tvkj.jar","ext":"https://dy.2723212.xyz/box/lib/美柏.json"},
+ {"key": "mmys","name": "萌米 🇹 影视","type": 3,"api": "csp_AppTT"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://dy.2723212.xyz/box/jar/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
+ {"key": "nfys","name": "奈飞 🇹 影视","type": 3,"api": "csp_XYQHiker"   ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/xp/奈飞影视.json","jar": "https://dy.2723212.xyz/box/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"},
+ {"key": "yzys","name": "柚子 🇹 影视","type": 3,"api": "csp_AppSK"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar": "https://dy.2723212.xyz/box/jar/youzi.jar;md5;D1115D99527D75948D095085B1407ADD"},
    {
       "key": "轩蓓｜官方线🏅",
       "name": "轩蓓｜专线",
       "type": 1,
       "api": "https://hjfgys.41c.ch/api.php/provide/vod/?ac=list",
-      "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/spider__1_.jar?ref=master;md5;d1fa24b46f218f455bc3f4b948fd457e",
+      "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/spider__1_.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -102,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/sx.jar?ref=master;md5;0840fd78292d4a87dfa48dbebd3e6466",
+      "jar": "https://dy.2723212.xyz/box/jar/sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
       "ext": {
         "简介": "【涛涛影视】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
         "线路标题": "[替换:索索线路>>涛涛TV]",
@@ -115,7 +115,7 @@
       "name": "free 🇹 影视",
       "type": 3,
       "api": "csp_CandyMuj_freeok",
-      "jar": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/jar/candymuj.jar?ref=master"
+      "jar": "https://dy.2723212.xyz/box/jar/candymuj.jar"
     },
         {
 			"key": "賤賤",
@@ -124,7 +124,7 @@
 			"api": "csp_Jianpian",
 			"searchable": 1,
 			"changeable": 1,
-			"ext": "https://gitlink.org.cn/api/wxwb/tt/raw/gr/lib/jianpian.json$$$1",
+			"ext": "https://dy.2723212.xyz/box/lib/jianpian.json$$$1",
 			"timeout":60
          },     
          {
@@ -326,7 +326,7 @@
 			{
 				"name": "live.ipv6.local",
 				"type": 0,
-				"url": "https://gitee.com/wxbtt/woal/raw/master/lib/live.ipv6.txt?ref=master",
+				"url": "https://gitee.com/wxbtt/woal/raw/master/lib/live.ipv6.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
