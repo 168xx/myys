@@ -15,18 +15,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./ext/MV.json"
+      "ext": "https://ys.2723212.xyz/ysxl/yy/ext/MV.json"
     },
    {
       "key": "csp_Bili_yanchh",
       "name": "🎤KTV唱歌",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/yy/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/geshou.json"
+      "ext": "https://ys.2723212.xyz/ysxl/yy/ext/geshou.json"
    },
     {
       "key": "T4-bmtv",
@@ -59,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./ext/演唱会.json"
+      "ext": "https://ys.2723212.xyz/ysxl/yy/ext/演唱会.json"
     },
    {
       "key": "MTV",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./ext/MTV.json"
+      "ext": "https://ys.2723212.xyz/ysxl/yy/ext/MTV.json"
     },
 
        {
@@ -91,7 +91,7 @@
             "name": "🐕️酷狗音乐2",
             "type": 3,
             "api": "csp_Kugou",
-             "jar":"./ext/spider618.jar",
+             "jar":"https://ys.2723212.xyz/ysxl/yy/ext/spider618.jar",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
@@ -110,7 +110,7 @@
                 "ratio": 1.597
             },
             "api": "http://120.53.102.254/dsp",
-            "jar":"./ext/spider618.jar",
+            "jar":"https://ys.2723212.xyz/ysxl/yy/ext/spider618.jar",
             "playerType": 0,
             "searchable": 1,
             "quickSearch": 1,
@@ -197,7 +197,7 @@
             "name": "🎸A8音乐",
             "type": 3,
             "api": "https://api.xn--qoqw77q.top/line/vip/api/drpy2.min.js",
-            "jar":"./ext/spider618.jar",
+            "jar":"https://ys.2723212.xyz/ysxl/yy/ext/spider618.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -208,7 +208,7 @@
             "name": "🎤清风DJ",
             "type": 3,
             "api": "https://api.xn--qoqw77q.top/line/vip/lib/kuka/drpy2.min.js",
-             "jar":"./ext/spider618.jar",
+             "jar":"https://ys.2723212.xyz/ysxl/yy/ext/spider618.jar",
 "changeable": 0,
             "style": {
                 "type": "rect",
@@ -237,18 +237,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/舞蹈.json"
+      "ext": "https://ys.2723212.xyz/ysxl/yy/ext/舞蹈.json"
     },
         {
             "key": "梨园",
             "name": "🍊梨园戏曲",
             "type": 3,
             "api": "csp_Bili",
-             "jar":"./ext/spider618.jar",
+             "jar":"https://ys.2723212.xyz/ysxl/yy/ext/spider618.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./ext/梨园大全.json"
+            "ext": "https://ys.2723212.xyz/ysxl/yy/ext/梨园大全.json"
         },
     {
       "key": "吾爱乐器",
