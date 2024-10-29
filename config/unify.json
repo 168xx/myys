@@ -1,6 +1,6 @@
 {
     "force_refresh":0,
-    "source": "https://gitee.com/wxbtt/bbtv/raw/master/bbtv.json",
+    "source": "https://ys.2723212.xyz/ck/bbtv.json",
     "app_show_dialog": true,
     "jar_show_dialog": true,
     "app_require_password": false,
@@ -23,6 +23,6 @@
     "prefix": "★蓓蓓影院★",
     "prefix_wolong": "★轩轩影视★",
     "title": "「涛哥工作室出品」",
-    "picture": "https://gitee.com/wxbtt/bbtv/raw/master/config/Tao.png",
+    "picture": "https://ys.2723212.xyz/config/Tao.png",
     "link": "https://www.baidu.com/"
 }
