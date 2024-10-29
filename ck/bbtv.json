@@ -5,13 +5,52 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "蓓蓓影院 〖所有美好不期而至〗",
+      "name": "蓓蓓影院 〖10.29所有美好不期而至〗",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+            "key": "热播弹幕",
+            "name": "热播丨影视",
+            "type": 3,
+            "api": "csp_ReBo",
+            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+     },
+     {
+            "key": "南瓜弹幕",
+            "name": "南瓜丨弹幕",
+            "type": 3,
+            "api": "csp_Nangua",
+            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+     },	      
+    {
+            "key": "小苹果弹幕",
+            "name": "小苹果丨影视",
+            "type": 3,
+            "api": "csp_Xpg",
+            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+     },
     {
         "key": "永恒_yqk",
         "name": "轩轩丨秒播",
@@ -249,6 +288,17 @@
         "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
       }
+    },
+    {
+      "key": "hipy_js_4KAV",
+      "name": "4K丨在线",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1, "playerType": 2,
+      "order_num": 0,
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/4K-AV.js"
     },
     {
       "key": "试看|AI2",
