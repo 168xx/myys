@@ -48,7 +48,20 @@
             "ext": {
                 "danmu": true
             }
-     },	
+     },	      
+    {
+            "key": "小苹果弹幕",
+            "name": "小苹果丨影视",
+            "type": 3,
+            "api": "csp_Xpg",
+            "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+     },
     {
         "key": "永恒_yqk",
         "name": "轩轩丨秒播",
