@@ -1,0 +1,59 @@
+{
+    "forceUpdateMsg": "",
+    "lowerThanVersionNeedForceUpdate": false,
+    "lowerThanVersionNeedUpdate": 327,
+    "newVersionCode": 329,
+    "newVersionUrl": "aHR0cHM6Ly9naXRodWIuY29tL2FuZGFuZHJvaWRvci9vdXJ0di9yZWxlYXNlcy9kb3dubG9hZC8zLjIuOS9PdXJUVl8zLjIuOV9hbmRyb2lkX3R2LmFwaw==",
+    "proxyUrl":"aHR0cHM6Ly9naHAuY2kv",
+    "normalMsg": "5YWs5ZGKCgpUVuebtOaSrei9r+S7tuaYr+a2m+WTpeW5s+aXtueUqOS6juWFtOi2o+eIseWlveaKgOacr+eglOeptuWSjOa1i+ivleS9v+eUqOeahOOAguS4i+i9veWSjOS9v+eUqOi/h+eoi+aYr+WujOWFqOWFjei0ueeahO+8jOivt+Wkp+WutuWIh+WLv+S4iuW9k+WPl+mql++8jOWmguWPkeeOsOWUruWNluihjOS4uu+8jOivt+iHquinieaKteWItuOAguaEn+iwouWkp+WutueahOaUr+aMge+8gQrjgI7mtpvlk6Xlt6XkvZzlrqTjgI/mj5DnpLo66L2v5Lu25LuF5L6b5a2m5Lmg5Y+C6ICDLCDor7fkuo7lronoo4XlkI4yNOWwj+aXtuWGheWIoOmZpO+8gQ==",
+    "normalMsgEnd": 1735660800000,
+    "normalMsgShowTime": 2,
+    "sleepConfigList":[
+        {
+            "id":"600001809",
+            "startTime":"00:20",
+            "endTime" :"05:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"600002505",
+            "startTime":"00:30",
+            "endTime" :"04:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"600002503",
+            "startTime":"00:30",
+            "endTime" :"04:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"600156816",
+            "startTime":"00:30",
+            "endTime" :"04:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"600004092",
+            "startTime":"00:30",
+            "endTime" :"04:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"600001806",
+            "startTime":"00:30",
+            "endTime" :"04:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"600099658",
+            "startTime":"01:00",
+            "endTime" :"04:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"600002493",
+            "startTime":"01:00",
+            "endTime" :"04:50",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        },{
+            "id":"ext_fsdst",
+            "startTime":"01:00",
+            "endTime" :"06:20",
+            "coverImageUrl" :"aHR0cHM6Ly9naXRlZS5jb20vYXBwX2NvbmZpZy92dG5ldy9yYXcvbWFzdGVyL2NvbmZpZy9xcl9hbGwuZW5jcnlwdA=="
+        }
+    ]
+}
