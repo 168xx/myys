@@ -394,15 +394,6 @@
       "filterable": 1,
       "ext": "http://cms-yt.lyyytv.cn/api.php/app/"
     },
-    {
-      "key": "csp_sp_热播影视",
-      "name": "东曦丨视界",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "http://v.rbotv.cn",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/dx0430.jar;md5;b7f1e219bd967f374e475a851bd0e052"
-    },
    {
       "key": "新感觉",
       "name": "感觉｜影视",
