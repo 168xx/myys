@@ -3,7 +3,7 @@
   "sites": [
        {
       "key": "夜猫短剧",
-      "name": "涛哥短剧",
+      "name": "涛哥短剧 - 网络短剧大全",
       "type": 3,
       "api": "csp_YMduanju",
       "jar": "./jar/ymz.jar",
@@ -13,7 +13,7 @@
     },
 {
 "key": "csp_xml_ikun",
-"name": "爱坤短剧",
+"name": "爱坤短剧✨涛哥工作室✨",
 "type": 1,
 "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
 "searchable": 1,
