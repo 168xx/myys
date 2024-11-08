@@ -390,7 +390,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/live.txt",
+      "url": "https://gitea.moe/yuan301/tv/raw/branch/main/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
