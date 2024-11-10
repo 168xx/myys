@@ -1,7 +1,7 @@
 {
-  "spider": "https://ys.2723212.xyz/ysxl//bb/tgy.jar",
+  "spider": "https://ys.2723212.xyz/ysxl/bb/tgy.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "logo": "https://ys.2723212.xyz/ysxl//bb/config/tt.jpg",
+  "logo": "https://ys.2723212.xyz/ysxl/bb/config/tt.jpg",
   "sites": [
     {
       "key": "豆豆",
@@ -17,7 +17,7 @@
             "name": "热播丨影视",
             "type": 3,
             "api": "csp_ReBo",
-            "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "jar": "https://ys.2723212.xyz/ysxl/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -30,7 +30,7 @@
             "name": "南瓜丨弹幕",
             "type": 3,
             "api": "csp_Nangua",
-            "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "jar": "https://ys.2723212.xyz/ysxl/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -43,7 +43,7 @@
             "name": "小苹果丨影视",
             "type": 3,
             "api": "csp_Xpg",
-            "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "jar": "https://ys.2723212.xyz/ysxl/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -55,7 +55,7 @@
         "key": "永恒_yqk",
         "name": "轩轩丨秒播",
         "type": 3,
-        "api": "https://ys.2723212.xyz/ysxl//bb/lib/一起看.js"
+        "api": "https://ys.2723212.xyz/ysxl/bb/lib/一起看.js"
     },
     {
       "key": "文采",
@@ -66,14 +66,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fty.jar"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/fty.jar"
     },
     {
       "key": "农民影视",
       "name": "农民 | 影视 ",
       "type": 3,
       "api": "csp_WexNmys",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/nmys.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/nmys.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -128,7 +128,7 @@
       "name": "小凯丨专用",
       "type": 1,
       "api": "http://b.340171345.cn/api.php/tvbox",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/xiaokai",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/xiaokai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -152,7 +152,7 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://github.qlkjy.cn/https://raw.githubusercontent.com/168xx/myys/refs/heads/main/drpy_libs/drpy2.min.js",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/jp.js"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/jp.js"
    },
   {
       "key": "csp_xml_ikun",
@@ -207,7 +207,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/布蕾4K.js"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/布蕾4K.js"
     },
     {
       "key": "hipy_js_CNHD",
@@ -218,14 +218,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/CNHD.js"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/CNHD.js"
     },
     {
       "key": "愉悦影视",
       "name": "万能 | 雨夜",
       "type": 3,
       "api": "csp_Wexyuyueys",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/wanneng.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/wanneng.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -235,7 +235,7 @@
       "name": "万能 | 快看",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/wanneng.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/wanneng.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -319,21 +319,21 @@
   "免嗅": "0" 
 }},
  {"key":"rebo","name":"玉玉丨热播","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/wxbtt/box/raw/master/jar/yuyu.jar","ext":"http://v.rbotv.cn"},
-{"key":"开心","name":"开心丨秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"playerType":1,"changeable":1,"jar": "https://ys.2723212.xyz/ysxl//bb/jar/ttkx.jar"},
-{"key":"csp_七新","name":"开心丨七新","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ys.2723212.xyz/ysxl//bb/jar/ttkx.jar","ext":"https://ys.2723212.xyz/ysxl//bb/lib/七新影视.json"},
-{"key":"子子影视","name":"开心丨子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ys.2723212.xyz/ysxl//bb/jar/ttkx.jar","ext":"https://ys.2723212.xyz/ysxl//bb/lib/子子.json"},
-{"key":"csp_xml_卧龙资源","name":"卧龙丨资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"jar": "https://ys.2723212.xyz/ysxl//bb/jar/hongxi.txt;md5;177584a6db7606778d53181f34310ae9"},
-{"key":"csp_Vidhub2","name":"Vid丨影视","type":3,"api":"csp_Vidhub2","jar": "https://ys.2723212.xyz/ysxl//bb/jar/PandaQ.jar","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"采采","name":"采采┃秒播","type":3,"api":"csp_Jpys","jar": "https://ys.2723212.xyz/ysxl//bb/jar/kx2024","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Bdys","name":"哔嘀丨影视","type":3,"api":"csp_Bdys","jar": "https://ys.2723212.xyz/ysxl//bb/jar/kx2024","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com"},
-{"key":"苹果","name":"苹果丨不卡","type":3,"api":"csp_LiteApple","jar": "https://ys.2723212.xyz/ysxl//bb/jar/kx2024","searchable":1,"quickSearch":1,"changeable":1},
-{"key": "hipy_js_采集之王[合]","name": "采集丨之王","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://ys.2723212.xyz/ysxl//bb/lib/采集之王.js?type=url&params=https://ys.2723212.xyz/ysxl//bb/lib/采集静态.json"},
+{"key":"开心","name":"开心丨秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"playerType":1,"changeable":1,"jar": "https://ys.2723212.xyz/ysxl/bb/jar/ttkx.jar"},
+{"key":"csp_七新","name":"开心丨七新","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ys.2723212.xyz/ysxl/bb/jar/ttkx.jar","ext":"https://ys.2723212.xyz/ysxl/bb/lib/七新影视.json"},
+{"key":"子子影视","name":"开心丨子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ys.2723212.xyz/ysxl/bb/jar/ttkx.jar","ext":"https://ys.2723212.xyz/ysxl/bb/lib/子子.json"},
+{"key":"csp_xml_卧龙资源","name":"卧龙丨资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"jar": "https://ys.2723212.xyz/ysxl/bb/jar/hongxi.txt;md5;177584a6db7606778d53181f34310ae9"},
+{"key":"csp_Vidhub2","name":"Vid丨影视","type":3,"api":"csp_Vidhub2","jar": "https://ys.2723212.xyz/ysxl/bb/jar/PandaQ.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"采采","name":"采采┃秒播","type":3,"api":"csp_Jpys","jar": "https://ys.2723212.xyz/ysxl/bb/jar/kx2024","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Bdys","name":"哔嘀丨影视","type":3,"api":"csp_Bdys","jar": "https://ys.2723212.xyz/ysxl/bb/jar/kx2024","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com"},
+{"key":"苹果","name":"苹果丨不卡","type":3,"api":"csp_LiteApple","jar": "https://ys.2723212.xyz/ysxl/bb/jar/kx2024","searchable":1,"quickSearch":1,"changeable":1},
+{"key": "hipy_js_采集之王[合]","name": "采集丨之王","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://ys.2723212.xyz/ysxl/bb/lib/采集之王.js?type=url&params=https://ys.2723212.xyz/ysxl/bb/lib/采集静态.json"},
     {
       "key": "轩蓓｜专线①🏅",
       "name": "星辰｜黄金",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/dokilwss.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/dokilwss.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -348,18 +348,18 @@
       "key": "hipy_js_4KAV",
       "name": "4K丨在线",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/drpy_libs/drpy2.min.js",
+      "api": "https://ys.2723212.xyz/ysxl/bb/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1, "playerType": 2,
       "order_num": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/4K-AV.js"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/4K-AV.js"
     },
     {
       "key": "试看|AI2",
       "name": "AI｜恋影",
       "type": 3,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/q0524qt.jar;md5;62727c90370bc6b3f97a21efcc8d30eb",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/q0524qt.jar;md5;62727c90370bc6b3f97a21efcc8d30eb",
       "api": "csp_AI",
       "searchable": 1,
       "quickSearch": 1,
@@ -372,18 +372,18 @@
       "name": "恋影 | 蓝光",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/tg.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/tg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/dyg.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/dyg.json"
     },
     {
       "key": "会员专享18",
       "name": "恋影 | 专享",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/tg.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/tg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -393,18 +393,18 @@
       "name": "五五 | 影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/tg.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/tg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/五五影视.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/五五影视.json"
     },
     {
       "key": "会员专享16",
       "name": "看了 | 影视",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/lib/drpy.min.js",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/看了么.js"
+      "api": "https://ys.2723212.xyz/ysxl/bb/lib/drpy.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/看了么.js"
     },
     {
       "key": "賤賤",
@@ -422,7 +422,7 @@
       "name": "爱看丨直连",
       "type": 3,
       "api": "csp_Ikanbot",
-       "jar": "https://ys.2723212.xyz/ysxl//bb/jar/okjpg1.txt",
+       "jar": "https://ys.2723212.xyz/ysxl/bb/jar/okjpg1.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -437,7 +437,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/影探[V2].js"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/影探[V2].js"
     },
     {
       "key": "csp_appys_影盒",
@@ -456,14 +456,14 @@
       "api": "csp_TTian",
       "playerType": 2,
       "ext": "http://v.rbotv.cn",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/dx0430.jar;md5;b7f1e219bd967f374e475a851bd0e052"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/dx0430.jar;md5;b7f1e219bd967f374e475a851bd0e052"
     },
    {
       "key": "新感觉",
       "name": "感觉｜影视",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/xgj/default_custom_spider.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/xgj/default_custom_spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -475,7 +475,7 @@
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/xgj/fm.jar;md5;2db0ca4bba291bb9357998923bea5c34",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/xgj/fm.jar;md5;2db0ca4bba291bb9357998923bea5c34",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -517,14 +517,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/木耳.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/木耳.json"
     },
      {
       "key": "厂1长",
       "name": "厂长丨超清",
       "type": 3,
-       "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+       "jar": "https://ys.2723212.xyz/ysxl/bb/jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
       "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
@@ -537,7 +537,7 @@
       "key": "比特",
       "name": "比特丨高清",
       "type": 3,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
@@ -561,8 +561,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/yinhe.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/北川影视.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/yinhe.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/北川影视.json"
     },
     {
 			"key": "csp_xBPQ_秒1",
@@ -572,8 +572,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://ys.2723212.xyz/ysxl//bb/lib/文才.json",
-			"jar": "https://ys.2723212.xyz/ysxl//bb/jar/hx.jar"
+			"ext": "https://ys.2723212.xyz/ysxl/bb/lib/文才.json",
+			"jar": "https://ys.2723212.xyz/ysxl/bb/jar/hx.jar"
     },
     {
       "key": "zztong",
@@ -583,7 +583,7 @@
       "filterable": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
       "ext": {
         "简介": "【涛涛影视】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
         "线路标题": "[替换:索索线路>>涛涛影视APP]",
@@ -599,7 +599,7 @@
       "filterable": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
       "ext": {
         "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}--{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
@@ -613,7 +613,7 @@
       "filterable": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
       "ext": "分类url:https://www.ggdy.net/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
     {
@@ -624,8 +624,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/鲸落.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/鲸落.json"
     },
     {
       "key": "影视工厂",
@@ -635,7 +635,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
       "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
     {
@@ -646,8 +646,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/奇趣.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/奇趣.json"
     },
     {
       "key": "月亮",
@@ -657,7 +657,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
       "ext": "分类url:https://www.zqzdzj.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
     {
@@ -665,7 +665,7 @@
       "name": "影视 | 迅雷",
       "type": 3,
       "api": "csp_Xunlei8",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/youdu.jar",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/youdu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -675,7 +675,7 @@
             "name": "电影 | 大师",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ys.2723212.xyz/ysxl//bb/jar/Hallelujah.jar",
+            "jar": "https://ys.2723212.xyz/ysxl/bb/jar/Hallelujah.jar",
             "ext": {
                 "副标题": "电影大师+module-item-text\">&&</div>",
                 "分类url": "https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -687,7 +687,7 @@
             "name": "拾光 | 567",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ys.2723212.xyz/ysxl//bb/jar/Yoursmile.jar",
+            "jar": "https://ys.2723212.xyz/ysxl/bb/jar/Yoursmile.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -722,8 +722,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/ttkx.jar",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/hezi.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/ttkx.jar",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/hezi.json"
     },
     {
       "key": "csp_xBPQ_疯狗",
@@ -733,8 +733,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/ttkx.jar",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/fgys.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/ttkx.jar",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/fgys.json"
     },
     {
       "key": "奈飞影视",
@@ -744,8 +744,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/ttkx.jar",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/ynfys.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/ttkx.jar",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/ynfys.json"
     },
     {
       "key": "奈飞中文",
@@ -755,8 +755,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/jar/ttkx.jar",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/nfzw.json"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/jar/ttkx.jar",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/nfzw.json"
     },
    {
       "key": "saohuo",
@@ -766,7 +766,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "playerType": "2",
-      "jar": "https://ys.2723212.xyz/ysxl//bb/lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -786,7 +786,7 @@
       "name": "热播丨影视",
       "type": 3,
       "changeable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://ys.2723212.xyz/ysxl/bb/lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -820,7 +820,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/wuwu.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/wuwu.json"
     },
    {
       "key": "少泽库",
@@ -840,7 +840,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/lib/spider备用.jar"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/lib/spider备用.jar"
     },
     {
       "key": "油库",
@@ -876,36 +876,36 @@
       "key": "drpy_js_360影视",
       "name": "360丨官源",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/lib/drpy2.min.js",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/360影视.js"
+      "api": "https://ys.2723212.xyz/ysxl/bb/lib/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇艺丨官源",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/lib/drpy2.min.js",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/奇珍异兽.js"
+      "api": "https://ys.2723212.xyz/ysxl/bb/lib/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾讯丨官源",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/lib/drpy2.min.js",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/腾云驾雾.js"
+      "api": "https://ys.2723212.xyz/ysxl/bb/lib/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒果丨官源",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/lib/drpy2.min.js",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/百忙无果.js"
+      "api": "https://ys.2723212.xyz/ysxl/bb/lib/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/百忙无果.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "搜狗丨官源",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/lib/drpy2.min.js",
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/菜狗.js"
+      "api": "https://ys.2723212.xyz/ysxl/bb/lib/drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/菜狗.js"
     },
     {
       "key": "csp_SeedHub",
@@ -916,7 +916,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/lib/83.jar"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/lib/83.jar"
     },
     {
       "key": "csp_MeijuMi",
@@ -927,18 +927,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ys.2723212.xyz/ysxl//bb/lib/83.jar"
+      "jar": "https://ys.2723212.xyz/ysxl/bb/lib/83.jar"
     },
     {
       "key": "人人影视",
       "name": "人人丨影视",
       "type": 3,
-      "api": "https://ys.2723212.xyz/ysxl//bb/lib/drpy2.min.js",
+      "api": "https://ys.2723212.xyz/ysxl/bb/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/人人影视.js"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/人人影视.js"
     },
     {
       "key": "豪华资源",
@@ -987,7 +987,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/bilibili.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/bilibili.json"
     },
     {
       "key": "少儿教育",
@@ -1001,7 +1001,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/少儿教育.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1015,7 +1015,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/小学课堂.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1029,7 +1029,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/初中课堂.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -1043,7 +1043,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ys.2723212.xyz/ysxl//bb/lib/高中课堂.json"
+      "ext": "https://ys.2723212.xyz/ysxl/bb/lib/高中课堂.json"
     },
     {
       "key": "push_agent",
