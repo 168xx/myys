@@ -151,7 +151,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
+      "api": "https://github.qlkjy.cn/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
       "ext": "https://ys.2723212.xyz/ysxl//bb/lib/jp.js"
    },
   {
@@ -202,7 +202,7 @@
       "key": "hipy_js_布蕾",
       "name": "布蕾丨HD",
       "type": 3,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
+      "api": "https://github.qlkjy.cn/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -213,7 +213,7 @@
       "key": "hipy_js_CNHD",
       "name": "金牌丨HD",
       "type": 3,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
+      "api": "https://github.qlkjy.cn/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -432,7 +432,7 @@
       "key": "hipy_js_影探4K",
       "name": "影探｜4K①",
       "type": 3,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
+      "api": "https://github.qlkjy.cn/https://raw.githubusercontent.com/wxwb/wxwbtv/refs/heads/main/bbtv/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1146,7 +1146,7 @@
             {
 				"name": "V6直播",
 				"type": 0,
-				"url": "https://ghp.ci/https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt",
+				"url": "https://github.qlkjy.cn/https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1155,7 +1155,7 @@
                    {
 				"name": "综合直播",
 				"type": 0,
-				"url": "https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+				"url": "https://github.qlkjy.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1164,13 +1164,13 @@
 			{
 				"name": "组播",
 				"type": 0,
-				"url": "https://ghp.ci/https://raw.githubusercontent.com/wokaotianshi123/zubotv/main/sichuanzubo.txt",
+				"url": "https://github.qlkjy.cn/https://raw.githubusercontent.com/wokaotianshi123/zubotv/main/sichuanzubo.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
 				"logo": "http://epg.112114.eu.org/logo/{name}.png"
 			},
-			{"name":"🔴iptv-4k","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tv/zhibo.txt","ua":"okhttp/3.15","epg":"http://epg.112114.eu.org/?ch={name}&date={date}"},
+			{"name":"🔴iptv-4k","type":0,"url":"https://github.qlkjy.cn/https://raw.githubusercontent.com/mengxianshengaaa/live/main/tv/zhibo.txt","ua":"okhttp/3.15","epg":"http://epg.112114.eu.org/?ch={name}&date={date}"},
 			{"name":"🔴aptv-4k","type":0,"url":"https://gh.xxooo.cf//https://raw.githubusercontent.com/mengxianshengaaa/IPTV/main/iptv_list.txt","ua":"okhttp/3.15","epg":"http://epg.112114.eu.org/?ch={name}&date={date}"},
 			{
 				"name": "live.ipv6.m3u",
@@ -1184,7 +1184,7 @@
 			{
 				"name": "live.fan",
 				"type": 0,
-				"url": "https://ghp.ci/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+				"url": "https://github.qlkjy.cn/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1209,7 +1209,7 @@
 				"name": "Json",
 				"type": 1,
 				"playerType": 1,
-				"url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+				"url": "https://github.qlkjy.cn/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 				"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
 				"logo": "http://epg.112114.eu.org/logo/{name}.png",
 				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
