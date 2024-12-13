@@ -1249,9 +1249,9 @@
 		],
   "parses": [
     {
-      "name": "自动聚合",
-      "url": "auto",
-      "type": "3"
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
     },
     {
       "name": "影探",
