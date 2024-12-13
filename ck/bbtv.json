@@ -52,12 +52,6 @@
             }
      },
     {
-        "key": "永恒_yqk",
-        "name": "轩轩丨秒播",
-        "type": 3,
-        "api": "https://framagit.org/168/myys/-/raw/main/bb/lib/一起看.js"
-    },
-    {
       "key": "文采",
       "name": "文采丨秒播",
       "type": 3,
@@ -67,15 +61,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fty.jar"
-    },
-    {
-      "key": "农民影视",
-      "name": "农民 | 影视 ",
-      "type": 3,
-      "api": "csp_WexNmys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/nmys.jar",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "南瓜",
