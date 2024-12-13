@@ -12,6 +12,45 @@
       "quickSearch": 0,
       "filterable": 0
     },
+   {
+      "key": "T4-南瓜",
+      "name": "南瓜丨T4",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/nangua.php"
+  },
+  {
+      "key": "T4-jp",
+      "name": "荐片丨T4",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/jianpian.php"
+    },
+    {
+      "key": "T4-caiji",
+      "name": "采集丨T4",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/caiji.php"
+    },
+    {"key":"T4-6v","name":"磁力丨T4","type":4,"api":"https://catbox.n13.club/t4/6v.php"},
+    {
+      "key": "小凯11",
+      "name": "小凯丨专用",
+      "type": 1,
+      "api": "http://b.340171345.cn/api.php/tvbox",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xiaokai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+            "key": "加速",
+            "name": "小凯丨加速",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
+    },
     {
             "key": "热播弹幕",
             "name": "热播丨影视",
@@ -76,7 +115,7 @@
      },
     {
       "key": "文才弹幕",
-      "name": "文才┃弹幕",
+      "name": "文才丨弹幕",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
@@ -89,13 +128,38 @@
     },
     {
       "key": "机器人",
-      "name": "机器┃影视",
+      "name": "机器丨影视",
       "type": 3,
       "api": "csp_Ikanbot",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "快看影视",
+      "name": "快看丨影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "雨见视频",
+      "name": "雨见┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "类型：&&</li>",
+        "简介": "🌈盒锦公众号提醒您:请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+      }
     },
     {
       "key": "南瓜",
@@ -117,45 +181,6 @@
         "分类url": "https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类": "电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"
       }
-    },
-   {
-      "key": "T4-南瓜",
-      "name": "南瓜丨T4",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/nangua.php"
-  },
-  {
-      "key": "T4-jp",
-      "name": "荐片丨T4",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/jianpian.php"
-    },
-    {
-      "key": "T4-caiji",
-      "name": "采集丨T4",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/caiji.php"
-    },
-    {"key":"T4-6v","name":"磁力丨T4","type":4,"api":"https://catbox.n13.club/t4/6v.php"},
-    {
-      "key": "小凯11",
-      "name": "小凯丨专用",
-      "type": 1,
-      "api": "http://b.340171345.cn/api.php/tvbox",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xiaokai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   {
-            "key": "加速",
-            "name": "小凯丨加速",
-            "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
     },
   {
       "key": "贱贱",
