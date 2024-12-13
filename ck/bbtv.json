@@ -51,6 +51,16 @@
                 "danmu": true
             }
      },
+     {
+		"key": "zj",
+		"name": "8K┃影视",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ext": {
+		  "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+		  "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+		}
+    },
     {
       "key": "文采",
       "name": "文采丨秒播",
