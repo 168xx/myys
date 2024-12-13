@@ -88,6 +88,16 @@
       }
     },
     {
+      "key": "机器人",
+      "name": "机器┃影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "南瓜",
       "name": "南瓜丨秒播",
       "type": 3,
@@ -530,16 +540,6 @@
       "changeable": 0,
       "timeout": 20
     },
-    {
-      "key": "机器人bot",
-      "name": "机器丨摸鱼",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-     },  
      {
       "key": "木耳",
       "name": "木耳丨秒播",
