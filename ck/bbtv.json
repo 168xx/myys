@@ -102,6 +102,20 @@
             }
      },
     {
+      "key": "荐片弹幕",
+      "name": "荐片丨弹幕",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
       "key": "文才弹幕",
       "name": "文才丨弹幕",
       "type": 3,
