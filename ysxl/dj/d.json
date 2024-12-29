@@ -25,6 +25,56 @@
 ]
 },
     {
+      "key": "✨抖音短剧✨",
+      "name": "✨抖音短剧✨涛哥工作室✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/抖音短剧.json"
+    },
+    {
+      "key": "✨追剧网✨",
+      "name": "✨追剧短剧✨涛哥工作室✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/追剧短剧.json"
+    },
+    {
+      "key": "✨CCTV短剧✨",
+      "name": "✨CCTV短剧✨涛哥工作室✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/cctv短剧.json"
+    },
+    {
+      "key": "✨稀饭短剧✨",
+      "name": "✨稀饭短剧✨涛哥工作室✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/稀饭短剧.json"
+    },
+    {
+      "key": "✨老王影院✨",
+      "name": "✨老王短剧✨涛哥工作室✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/老王短剧.json"
+    },
+    {
       "key": "爱看4K",
       "name": "✨爱看4K短剧✨涛哥工作室✨",
       "type": 3,
@@ -296,16 +346,6 @@
       "ext": "./lib/电视剧网.json"
     },
     {
-      "key": "✨老王影院✨",
-      "name": "✨老王短剧✨涛哥工作室✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/老王短剧.json"
-    },
-    {
       "key": "✨胖虎影院✨",
       "name": "✨胖虎短剧✨涛哥工作室✨",
       "type": 3,
@@ -374,6 +414,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/掌心短剧.json"
+    },
+    {
+      "key": "js_星芽短剧",
+      "name": "涛哥会员短剧",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/星芽短剧.js"
     },
     {
       "key": "✨短剧大全✨",
