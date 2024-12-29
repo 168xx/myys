@@ -390,7 +390,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitea.moe/yuan301/tv/raw/branch/main/live.txt",
+      "url": "https://live.zbds.top/tv/iptv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
