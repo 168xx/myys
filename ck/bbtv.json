@@ -52,6 +52,17 @@
             "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "美益达",
+      "name": "小狐狸美益达┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://cloud.wujiyan.cc/f/mGgmTQ/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cloud.wujiyan.cc/f/1L6ohB/%E7%BE%8E.js"
+    },
+    {
             "key": "热播弹幕",
             "name": "热播丨影视",
             "type": 3,
