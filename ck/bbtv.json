@@ -63,6 +63,27 @@
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/美.js"
     },
     {
+      "key": "淘影",
+      "name": "淘影丨狐狸",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xyqxbpq.jar",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/淘影.json"
+    },
+    {
+      "key": "糯米弹幕",
+      "name": "糯米丨弹幕",
+      "type": 3,
+      "api": "csp_Nmys",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
             "key": "热播弹幕",
             "name": "热播丨影视",
             "type": 3,
