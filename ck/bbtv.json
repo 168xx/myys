@@ -84,6 +84,13 @@
       }
     },
     {
+      "key": "猫咪",
+      "name": "猫咪丨弹幕",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/熊密.js"
+    },
+    {
             "key": "热播弹幕",
             "name": "热播丨影视",
             "type": 3,
