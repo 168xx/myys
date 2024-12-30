@@ -53,14 +53,14 @@
     },
     {
       "key": "美益达",
-      "name": "小狐狸美益达┃影视",
+      "name": "益达丨狐狸",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://cloud.wujiyan.cc/f/mGgmTQ/xyqxbpq.jar",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cloud.wujiyan.cc/f/1L6ohB/%E7%BE%8E.js"
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/美.js"
     },
     {
             "key": "热播弹幕",
