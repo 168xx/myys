@@ -96,21 +96,21 @@
       "name": "弹幕丨兔子",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=789456123&id=米兔"
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/米兔.js"
     },
     {
       "key": "金色",
       "name": "弹幕丨金色",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=789456123&id=金牌"
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/金牌.js"
     },
     {
       "key": "youyou",
       "name": "弹幕┃优优",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=789456123&id=优优"
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/优优.js"
     },
     {
       "key": "农民影视",
