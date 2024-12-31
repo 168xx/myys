@@ -52,6 +52,17 @@
             "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "皮皮虾",
+      "name": "皮皮虾丨4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/moyu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.55.250.149:1314/api.php/app/"
+    },
+    {
       "key": "美益达",
       "name": "益达丨狐狸",
       "type": 3,
@@ -61,6 +72,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/美.js"
+    },
+    {
+      "key": "弹酷",
+      "name": "海酷丨影视",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/优密.js"
     },
     {
       "key": "淘影",
