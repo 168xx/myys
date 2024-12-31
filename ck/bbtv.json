@@ -42,17 +42,6 @@
       "filterable": 1
     },
     {
-      "key": "皮皮虾",
-      "name": "皮皮虾丨4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://10526.kstore.vip/moyu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.55.250.149:1314/api.php/app/"
-    },
-    {
       "key": "美益达",
       "name": "益达丨狐狸",
       "type": 3,
@@ -101,6 +90,26 @@
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/熊密.js"
+    },
+    {
+      "key": "农民影视",
+      "name": "农民｜影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PGspider1225.txt;md5;a017cafdb3877083267886d97c5e24f2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "看客影视",
+      "name": "看客｜影视",
+      "type": 3,
+      "api": "csp_Kanke",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PGspider1225.txt;md5;a017cafdb3877083267886d97c5e24f2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
             "key": "热播弹幕",
