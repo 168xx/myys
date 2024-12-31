@@ -92,6 +92,20 @@
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/熊密.js"
     },
     {
+      "key": "兔子",
+      "name": "弹幕丨兔子",
+      "type": 3,
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=789456123&id=米兔"
+    },
+    {
+      "key": "金色",
+      "name": "弹幕丨金色",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=789456123&id=金牌"
+    },
+    {
       "key": "农民影视",
       "name": "农民｜影视",
       "type": 3,
@@ -266,27 +280,6 @@
             "ext": {
                 "danmu": true
             }
-     },
-     {
-            "key": "米米影视",
-            "name": "大米｜影视",
-            "type": 3,
-            "api": "csp_AppZX",
-            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qqwxx.jar",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="
-    },
-    {
-            "key": "凡人影视",
-            "name": "凡人｜APP",
-            "type": 3,
-            "api": "csp_AppFr",
-            "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qqwxx.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
      },
     {
       "key": "爱奇艺",
