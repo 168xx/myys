@@ -1496,7 +1496,7 @@
     {
       "name": "恋影B",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
       "ext": {
         "flag": [
           "qq",
