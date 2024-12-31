@@ -106,6 +106,13 @@
       "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=789456123&id=金牌"
     },
     {
+      "key": "youyou",
+      "name": "弹幕┃优优",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "ext": "http://60.211.124.23:10101/tvbox/js/gyi.php?key=789456123&id=优优"
+    },
+    {
       "key": "农民影视",
       "name": "农民｜影视",
       "type": 3,
