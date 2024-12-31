@@ -113,6 +113,27 @@
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/优优.js"
     },
     {
+      "key": "土豆",
+      "name": "搜索丨土豆",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/土豆.js"
+    },
+    {
+      "key": "雨滴",
+      "name": "弹幕丨雨滴",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/雨滴.js"
+    },
+    {
+      "key": "纸质",
+      "name": "弹幕┃纸质",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/纸质.js"
+    },
+    {
       "key": "农民影视",
       "name": "农民｜影视",
       "type": 3,
