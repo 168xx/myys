@@ -48,6 +48,27 @@
       "ext": "https://ys.2723212.xyz/ysxl/box/lib/果果4K.js"
     },
     {
+      "key": "腾讯",
+      "name": "《腾翼 🇹 翔天》",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/box/lib/腾讯VIP.js"
+    },
+    {
+      "key": "金牌影视",
+      "name": "《天微 🇹 影院》",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/box/lib/金牌影视.js"
+    },
+    {
+      "key": "优酷",
+      "name": "《流光 🇹 酷影》",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
+      "ext": "https://ys.2723212.xyz/ysxl/box/lib/优酷.js"
+    },
+    {
       "key": "t4-南瓜",
       "name": "南瓜 🇹 专用",
       "type": 4,
