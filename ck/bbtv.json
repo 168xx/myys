@@ -16,21 +16,21 @@
       "key": "T4-南瓜",
       "name": "南瓜丨T4",
       "type": 4,
-      "api": "https://catbox.n13.club/t5/nangua.php"
+      "api": "https://catbox.n13.club/t6/nangua.php"
   },
   {
       "key": "T4-jp",
       "name": "荐片丨T4",
       "type": 4,
-      "api": "https://catbox.n13.club/t5/jianpian.php"
+      "api": "https://catbox.n13.club/t6/jianpian.php"
     },
     {
       "key": "T4-caiji",
       "name": "采集丨T4",
       "type": 4,
-      "api": "https://catbox.n13.club/t5/caiji.php"
+      "api": "https://catbox.n13.club/t6/caiji.php"
     },
-    {"key":"T4-6v","name":"磁力丨T4","type":4,"api":"https://catbox.n13.club/t5/6v.php"},
+    {"key":"T4-6v","name":"磁力丨T4","type":4,"api":"https://catbox.n13.club/t6/6v.php"},
     {
       "key": "小凯11",
       "name": "小凯丨专用",
@@ -40,6 +40,57 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+   {
+      "key": "csp_JPYY",
+      "name": "涛哥丨秒播⒈",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/1205.jar",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "文采",
+      "name": "涛哥丨秒播⒉",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "小苹果弹幕版",
+      "name": "涛哥丨秒播⒊",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jarr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "厂长弹幕版",
+      "name": "涛哥丨秒播⒋",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "美益达",
