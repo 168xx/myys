@@ -38,8 +38,47 @@
       "ext": ""
     },
     {
+      "key": "文采",
+      "name": "七星 🇹 秒播⒉",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "https://ys.2723212.xyz/ysxl/box/jar/tvkj.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "小苹果弹幕版",
+      "name": "七星 🇹 秒播⒊",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "https://ys.2723212.xyz/ysxl/box/jar/tvkj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "厂长弹幕版",
+      "name": "七星 🇹 秒播⒋",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "https://ys.2723212.xyz/ysxl/box/jar/tvkj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
       "key": "🌞腾腾4K解析_js",
-      "name": "《免扫 🇹 腾4K》",
+      "name": "免扫 🇹 腾4K",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -50,7 +89,7 @@
     },
     {
       "key": "果果4K解析_js",
-      "name": "《免扫 🇹 果4K》",
+      "name": "免扫 🇹 果4K",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -61,21 +100,21 @@
     },
     {
       "key": "腾讯",
-      "name": "《腾翼 🇹 翔天》",
+      "name": "腾翼 🇹 翔天",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://ys.2723212.xyz/ysxl/box/lib/腾讯VIP.js"
     },
     {
       "key": "金牌影视",
-      "name": "《天微 🇹 影院》",
+      "name": "天微 🇹 影院",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://ys.2723212.xyz/ysxl/box/lib/金牌影视.js"
     },
     {
       "key": "优酷",
-      "name": "《流光 🇹 酷影》",
+      "name": "流光 🇹 酷影",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://ys.2723212.xyz/ysxl/box/lib/优酷.js"
