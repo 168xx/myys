@@ -11,6 +11,43 @@
       "searchable": 0
     },
     {
+      "key": "alllive",
+      "name": "平台 🇹 直播",
+      "type": 3,
+      "api": "csp_Alllive",
+      "jar": "https://ys.2723212.xyz/ysxl/box/jar/tvkj.jar",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "🌞腾腾4K解析_js",
+      "name": "《免扫 🇹 腾4K》",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ys.2723212.xyz/ysxl/box/lib/腾腾4K.js"
+    },
+    {
+      "key": "果果4K解析_js",
+      "name": "《免扫 🇹 果4K》",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ys.2723212.xyz/ysxl/box/lib/果果4K.js"
+    },
+    {
       "key": "t4-南瓜",
       "name": "南瓜 🇹 专用",
       "type": 4,
