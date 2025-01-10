@@ -296,7 +296,7 @@
    },
     {
       "key": "🌞腾腾4K解析_js",
-      "name": "免扫 🇹 腾4K",
+      "name": "免扫丨腾4K",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -307,7 +307,7 @@
     },
     {
       "key": "果果4K解析_js",
-      "name": "免扫 🇹 果4K",
+      "name": "免扫丨果4K",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -318,21 +318,21 @@
     },
     {
       "key": "腾讯",
-      "name": "腾翼 🇹 翔天",
+      "name": "腾翼丨翔天",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/腾讯VIP.js"
     },
     {
       "key": "金牌影视",
-      "name": "天微 🇹 影院",
+      "name": "天微丨影院",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/金牌影视.js"
     },
     {
       "key": "优酷",
-      "name": "流光 🇹 酷影",
+      "name": "流光丨酷影",
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/优酷.js"
