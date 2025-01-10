@@ -279,7 +279,7 @@
 			{
 				"name": "live.iptv",
 				"type": 0,
-				"url": "http://tvbox6.icu/8.php?all=1",
+				"url": "http://tvbox6.icu/live.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
