@@ -14,19 +14,19 @@
       "key": "t4-黑狐",
       "name": "黑狐 🇹 专用",
       "type": 4,
-      "api": "https://catbox.n13.club/t5/heihu.php"
+      "api": "https://catbox.n13.club/t6/heihu.php"
     },
     {
       "key": "t4-南瓜",
       "name": "南瓜 🇹 专用",
       "type": 4,
-      "api": "https://catbox.n13.club/t5/nangua.php"
+      "api": "https://catbox.n13.club/t6/nangua.php"
     },
-{"key":"T4-jp","name":"荐片 🇹 专用","type":4,"api":"https://catbox.n13.club/t5/jianpian.php"},
-{"key":"T4-新感觉","name":"新感觉 🇹 专用","type":4,"api":"https://catbox.n13.club/t5/xinganjue.php"},
-{"key":"T4-caiji","name":"采集 🇹 专用","type":4,"api":"https://catbox.n13.club/t5/caiji.php"},
-{"key":"T4-mmdj","name":"短剧 🇹 专用","type":4,"api":"https://catbox.n13.club/t5/mmdj.php"},
-{"key":"T4-6v","name":"磁力 🇹 专用","type":4,"api":"https://catbox.n13.club/t5/6v.php"},
+{"key":"T4-jp","name":"荐片 🇹 专用","type":4,"api":"https://catbox.n13.club/t6/jianpian.php"},
+{"key":"T4-新感觉","name":"新感觉 🇹 专用","type":4,"api":"https://catbox.n13.club/t6/xinganjue.php"},
+{"key":"T4-caiji","name":"采集 🇹 专用","type":4,"api":"https://catbox.n13.club/t6/caiji.php"},
+{"key":"T4-mmdj","name":"短剧 🇹 专用","type":4,"api":"https://catbox.n13.club/t6/mmdj.php"},
+{"key":"T4-6v","name":"磁力 🇹 专用","type":4,"api":"https://catbox.n13.club/t6/6v.php"},
    {
             "key": "csp_秒播",
             "name": "玉玉 🇹 秒播",
