@@ -26,6 +26,18 @@
       "timeout": 10
     },
     {
+      "key": "csp_JPYY",
+      "name": "七星 🇹 秒播",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "jar": "https://ys.2723212.xyz/ysxl/box/jar/1205.jar",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "🌞腾腾4K解析_js",
       "name": "《免扫 🇹 腾4K》",
       "type": 3,
