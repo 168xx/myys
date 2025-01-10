@@ -2,28 +2,18 @@
   "privateKey": "404",
   "tvSources": [
     {
-      "name": "港澳台",
-      "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/hk.m3u",
-      "block": false
-    },
-    {
       "name": "源1 [IPV6]",
       "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv6.m3u",
       "block": false
     },
     {
       "name": "源2 [IPV4]",
-      "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv4_3.m3u",
+      "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv4.m3u",
       "block": false
     },
     {
       "name": "源3 [IPV6]",
       "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv6_2.m3u",
-      "block": false
-    },
-    {
-      "name": "源4 [IPV6]",
-      "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv6.m3u",
       "block": false
     },
     {
@@ -36,7 +26,7 @@
     {
       "name": "7Na7",
       "url": "https://vod.7na7.com/kapi.php/provide/vod/",
-      "desc": "涛哥影视"
+      "desc": "圆圆影院"
     },
     {
       "name": "暴风资源",
