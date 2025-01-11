@@ -94,7 +94,7 @@
     },
     {
       "key": "红狐狸影院",
-      "name": "七星🌟┃秒播⒌",
+      "name": "七星丨秒播⒌",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
     },
     {
       "key": "nmys",
@@ -122,7 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/5.jar;md5;9A039F481AC34BE086451AEEFBE71A68"
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/5.jar;md5;9A039F481AC34BE086451AEEFBE71A68"
     },
     {
       "key": "sbys",
@@ -133,7 +133,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
     },
     {
       "key": "ygcl",
@@ -144,7 +144,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
     },
     {
       "key": "美益达",
