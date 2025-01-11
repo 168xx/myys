@@ -93,6 +93,60 @@
       "timeout": 10
     },
     {
+      "key": "红狐狸影院",
+      "name": "七星丨秒播⒌",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
+      "ext": {
+        "简介": "+line-height: 20px;\">&&</div>",
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "Kkys",
+      "name": "快看丨影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+    },
+    {
+      "key": "nmys",
+      "name": "农民丨影视",
+      "type": 3,
+      "api": "csp_Nongm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/5.jar;md5;9A039F481AC34BE086451AEEFBE71A68"
+    },
+    {
+      "key": "sbys",
+      "name": "素白丨影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+    },
+    {
+      "key": "ygcl",
+      "name": "影港┃磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+    },
+    {
       "key": "美益达",
       "name": "益达丨狐狸",
       "type": 3,
@@ -392,50 +446,6 @@
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/爱奇艺弹幕.js"
     },
-  {
-      "key": "csp_xml_ikun",
-      "name": "爱坤丨蓝光",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "泰国剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "犯罪片",
-        "惊悚片",
-        "古装片",
-        "灾难片",
-        "历史片",
-        "其他片",
-        "悬疑片",
-        "奇幻片",
-        "动画片",
-        "欧美综艺"
-      ]
-    },
     {
       "key": "hipy_js_布蕾",
       "name": "布蕾丨HD",
@@ -459,16 +469,6 @@
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/CNHD.js"
     },
     {
-      "key": "愉悦影视",
-      "name": "万能 | 雨夜",
-      "type": 3,
-      "api": "csp_Wexyuyueys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/wanneng.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Kuaikan",
       "name": "万能 | 快看",
       "type": 3,
@@ -486,78 +486,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "csp_beijihu",
-      "name": "万能 | 极狐",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "39影视",
-      "name": "万能 | 39",
-      "type": 1,
-      "api": "https://www.39kan.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "NRTFIY星球",
-      "name": "万能 | 星球",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.netfly.tv/api.php/app/"
-    },
-    {
-            "key": "csp_秒播",
-            "name": "玉玉丨秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/wxbtt/box/raw/master/jar/yuyu.jar",
-            "ext": {"分类": "国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
-  "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", 
-  "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
-  "数组二次截取": "list\":[&&]", 
-  "数组": "{&&}[不包含:]", 
-  "图片": "vod_pic\":\"&&\"", 
-  "标题": "vod_name\":\"&&\"", 
-  "副标题": "+vod_remarks\":\"&&\"", 
-  "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
-  "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", 
-  "搜索模式": "1", 
-  "搜索二次截取": "list\":[&&]", 
-  "搜索数组": "{&&}[不包含:]", 
-  "搜索图片": "vod_pic\"*\"&&\"", 
-  "搜索标题": "vod_name\"*\"&&\"", 
-  "搜索副标题": "type_name\":\"&&\"", 
-  "搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
-  "影片类型": "vod_class\"*\"&&\"", 
-  "导演": "vod_director\"*\"&&\"", 
-  "主演": "vod_actor\"*\"&&\"", 
-  "简介":  "vod_content\"*\"&&\"", 
-  "线路二次截取": "\"list\":[&&]", 
-  "线路数组": "<h3 class=\"title\">&&</h3>[排序:播放线路3>播放线路2>播放线路4>播放线路5>播放线路6>播放线路1>]", 
-  "线路标题": "涛涛影视+>播放线路</h3>", 
-  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", 
-  "播放二次截取": "", 
-  "播放列表": "表&&表", 
-  "播放标题": "题&&题", 
-  "播放链接": "链&&链", 
-  "嗅探词": ".m3u8", 
-  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
-  "免嗅": "0" 
-}},
- {"key":"rebo","name":"玉玉丨热播","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/wxbtt/box/raw/master/jar/yuyu.jar","ext":"http://v.rbotv.cn"},
-{"key":"开心","name":"开心丨秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"playerType":1,"changeable":1,"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ttkx.jar"},
 {"key":"csp_七新","name":"开心丨七新","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ttkx.jar","ext":"https://framagit.org/168/myys/-/raw/main/bb/lib/七新影视.json"},
 {"key":"子子影视","name":"开心丨子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ttkx.jar","ext":"https://framagit.org/168/myys/-/raw/main/bb/lib/子子.json"},
 {"key":"csp_xml_卧龙资源","name":"卧龙丨资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/hongxi.txt;md5;177584a6db7606778d53181f34310ae9"},
@@ -896,33 +824,6 @@
                 "公众号卫华正能量大爱学堂出品": ""
             }
      },
-    {
-      "key": "zycj_天天",
-      "name": "天天丨影视",
-      "type": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php",
-      "playUrl": "",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "韩国剧",
-        "欧美剧",
-        "大陆综艺"
-      ]
-    },
-    {
-      "key": "csp_盒子",
-      "name": "开心丨盒子",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ttkx.jar",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/hezi.json"
-    },
     {
       "key": "csp_xBPQ_疯狗",
       "name": "开心丨疯狗",
@@ -1441,7 +1342,7 @@
     },
     {
       "name": "影探",
-      "url": "http://appyt.lyyytv.cn/api/index?parsesId=1&appid=10001&videoUrl=",
+      "url": "https://dl.love0997.top/qilin.php?v=",
       "type": "1"
     },
     {
@@ -1538,7 +1439,7 @@
    {
       "name": "恋影A",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "url": "https://dl.love0997.top/qilin.php?v=",
       "ext": {
         "flag": [
           "qq",
@@ -1608,7 +1509,7 @@
    {
       "name": "超级麒麟vip",
       "type": 1,
-      "url": "https://api.qljson.xyz/api/?key=11781ab2890bcb53fdb4b2ad27503d7c&url=",
+      "url": "https://dl.love0997.top/liuguang.php?v=",
       "ext": {
         "flag": [
           "qq",
@@ -1646,37 +1547,9 @@
    {
       "name": "LX专线",
       "type": "1",
-      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "url": "https://dl.love0997.top/qilin.php?v=",
       "flag": [
         "LXTX"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      }
-    },
-    {
-      "name": "OL专线",
-      "type": "1",
-      "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
-      "flag": [
-        "BTOL"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      }
-    },
-    {
-      "name": "龙龙管解",
-      "type": "1",
-      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-      "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"
       ],
       "header": {
         "User-Agent": "Dalvik/2.1.0"
@@ -1685,17 +1558,17 @@
     {   
       "name": "黄金①线",
       "type": 1,
-      "url": "http://wo.szh2019563.icu/api/?key=f8140fbdf8743dcab1df91ab6abfd42e&url="
+      "url": "https://dl.love0997.top/liuguang.php?v="
     },
     {
       "name": "黄金②线",
       "type": 1,
-      "url": "http://jk.mcyan.cn/index.php?url="
+      "url": "https://dl.love0997.top/qilin.php?v="
     },
     {
       "name": "精准8",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://dl.love0997.top/liuguang.php?v=",
       "ext": {
         "flag": [
           "qq",
