@@ -105,6 +105,48 @@
       }
     },
     {
+      "key": "Kkys",
+      "name": "快看丨影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+    },
+    {
+      "key": "nmys",
+      "name": "农民丨影视",
+      "type": 3,
+      "api": "csp_Nongm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/5.jar;md5;9A039F481AC34BE086451AEEFBE71A68"
+    },
+    {
+      "key": "sbys",
+      "name": "素白丨影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+    },
+    {
+      "key": "ygcl",
+      "name": "影港┃磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
+    },
+    {
       "key": "美益达",
       "name": "益达丨狐狸",
       "type": 3,
