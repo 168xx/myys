@@ -1538,7 +1538,7 @@
    {
       "name": "恋影A",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1608,7 +1608,7 @@
    {
       "name": "超级麒麟vip",
       "type": 1,
-      "url": "https://api.qljson.xyz/api/?key=11781ab2890bcb53fdb4b2ad27503d7c&url=",
+      "url": "https://dl.love0997.top/liuguang.php?v=",
       "ext": {
         "flag": [
           "qq",
@@ -1646,37 +1646,9 @@
    {
       "name": "LX专线",
       "type": "1",
-      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "url": "https://dl.love0997.top/qilin.php?v=",
       "flag": [
         "LXTX"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      }
-    },
-    {
-      "name": "OL专线",
-      "type": "1",
-      "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
-      "flag": [
-        "BTOL"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      }
-    },
-    {
-      "name": "龙龙管解",
-      "type": "1",
-      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-      "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"
       ],
       "header": {
         "User-Agent": "Dalvik/2.1.0"
@@ -1685,17 +1657,17 @@
     {   
       "name": "黄金①线",
       "type": 1,
-      "url": "http://wo.szh2019563.icu/api/?key=f8140fbdf8743dcab1df91ab6abfd42e&url="
+      "url": "https://jxjson.icu/neibu.php?url="
     },
     {
       "name": "黄金②线",
       "type": 1,
-      "url": "http://jk.mcyan.cn/index.php?url="
+      "url": "https://dl.love0997.top/qilin.php?v="
     },
     {
       "name": "精准8",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
