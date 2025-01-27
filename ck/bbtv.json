@@ -16,21 +16,21 @@
       "key": "T4-南瓜",
       "name": "南瓜丨T4",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/nangua.php"
+      "api": "https://catbox.n13.club/t8/nangua.php"
   },
   {
       "key": "T4-jp",
       "name": "荐片丨T4",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/jianpian.php"
+      "api": "https://catbox.n13.club/t8/jianpian.php"
     },
     {
       "key": "T4-caiji",
       "name": "采集丨T4",
       "type": 4,
-      "api": "https://catbox.n13.club/t6/caiji.php"
+      "api": "https://catbox.n13.club/t8/caiji.php"
     },
-    {"key":"T4-6v","name":"磁力丨T4","type":4,"api":"https://catbox.n13.club/t6/6v.php"},
+    {"key":"T4-6v","name":"磁力丨T4","type":4,"api":"https://catbox.n13.club/t8/6v.php"},
     {
       "key": "小凯11",
       "name": "小凯丨专用",
