@@ -289,20 +289,6 @@
         "danmu": true
       }
     },
-    //{
-      "key": "荐片弹幕",
-      "name": "荐片丨备用",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/cupfox.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
     {
       "key": "文才弹幕",
       "name": "文才丨弹幕",
