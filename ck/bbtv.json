@@ -62,10 +62,10 @@
       "name": "小天｜稳定",
       "type": 3,
       "api": "csp_TianTian",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qianx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qianx.jar",
       "ext": {
         "danmu": true,
         "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
@@ -76,10 +76,10 @@
       "name": "热播｜稳定",
       "type": 3,
       "api": "csp_TianTian",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qianx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qianx.jar",
       "ext": {
         "danmu": true,
         "site": "aHR0cDovL3YucmJvdHYuY24="
@@ -108,10 +108,10 @@
       "name": "天才｜首选",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qianx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qianx.jar",
       "ext": {
         "danmu": true
       }
