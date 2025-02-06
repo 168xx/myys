@@ -526,21 +526,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  {
-      "key": "阿里影视",
-      "name": "万能 | 阿里",
-      "type": 1,
-      "api": "http://aliys.cn:90/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-{"key":"csp_七新","name":"开心丨七新","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ttkx.jar","ext":"https://framagit.org/168/myys/-/raw/main/bb/lib/七新影视.json"},
-{"key":"子子影视","name":"开心丨子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ttkx.jar","ext":"https://framagit.org/168/myys/-/raw/main/bb/lib/子子.json"},
 {"key":"csp_xml_卧龙资源","name":"卧龙丨资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/hongxi.txt;md5;177584a6db7606778d53181f34310ae9"},
 {"key":"csp_Vidhub2","name":"Vid丨影视","type":3,"api":"csp_Vidhub2","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PandaQ.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"采采","name":"采采┃秒播","type":3,"api":"csp_Jpys","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/kx2024","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Bdys","name":"哔嘀丨影视","type":3,"api":"csp_Bdys","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/kx2024","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com"},
-{"key":"苹果","name":"苹果丨不卡","type":3,"api":"csp_LiteApple","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/kx2024","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "hipy_js_采集之王[合]","name": "采集丨之王","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/采集之王.js?type=url&params=https://framagit.org/168/myys/-/raw/main/bb/lib/采集静态.json"},
     {
       "key": "轩蓓｜专线①🏅",
