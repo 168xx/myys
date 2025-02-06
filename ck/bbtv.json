@@ -566,49 +566,6 @@
       "filterable": 1,
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/五五影视.json"
     },
-  {
-      "key": "爱看直连",
-      "name": "爱看丨直连",
-      "type": 3,
-      "api": "csp_Ikanbot",
-       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/okjpg1.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "hipy_js_影探4K",
-      "name": "影探｜4K①",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/影探[V2].js"
-    },
-    {
-      "key": "csp_appys_影盒",
-      "name": "影探｜4K②",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms-yt.lyyytv.cn/api.php/app/"
-    },
-   {
-      "key": "新感觉",
-      "name": "感觉｜影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/xgj/default_custom_spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.100.147:9891/api.php/app/"
-    },
     {
       "key": "王某某影视MAX",
       "name": "王某 | 影院",
@@ -620,69 +577,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://wmmys.wmmys.cn/api.php/app/"
-    },
-    {
-      "key": "小马",
-      "name": "小马丨纯净",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://mas.szyyds.cn/api.php/app/"
-    },
-    {
-      "key": "新6V",
-      "name": "六维丨磁力",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 20
-    },
-     {
-      "key": "木耳",
-      "name": "木耳丨秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/木耳.json"
-    },
-     {
-      "key": "厂1长",
-      "name": "厂长丨超清",
-      "type": 3,
-       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
-      "api": "csp_NewCz",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://czzy.top/"
-    },
-    {
-      "key": "比特",
-      "name": "比特丨高清",
-      "type": 3,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "北川",
-      "name": "银河丨北川",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/yinhe.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/北川影视.json"
     },
     {
 			"key": "csp_xBPQ_秒1",
