@@ -160,20 +160,20 @@
       "name": "热播丨影视",
       "type": 3,
       "api": "csp_AppRB",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/cupfox.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/cupfox.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3"
     },
     {
       "key": "csp_Jpys",
       "name": "茶杯狐丨4K",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/cupfox.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/cupfox.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3"
     },
     {
       "key": "看影🏮秒播",
@@ -190,10 +190,10 @@
       "name": "涛哥丨秒播",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
       "changeable": 1
     },
     {
