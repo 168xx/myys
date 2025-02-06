@@ -116,21 +116,9 @@
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/hysxb.txt",
       "filterable": 1
     },
-   {
-      "key": "csp_JPYY",
-      "name": "涛哥丨秒播⒈",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/1205.jar",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
-    },
     {
       "key": "文采",
-      "name": "涛哥丨秒播⒉",
+      "name": "涛哥丨秒播",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/qxyc.jar",
@@ -222,25 +210,6 @@
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
     },
     {
-      "key": "美益达",
-      "name": "益达丨狐狸",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/美.js"
-    },
-    {
-      "key": "淘影",
-      "name": "淘影丨狐狸",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xyqxbpq.jar",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/淘影.json"
-    },
-    {
       "key": "糯米弹幕",
       "name": "糯米丨弹幕",
       "type": 3,
@@ -259,16 +228,6 @@
       "type": 3,
       "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/熊密.js"
-    },
-    {
-      "key": "农民影视",
-      "name": "农民｜影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PGspider1225.txt;md5;a017cafdb3877083267886d97c5e24f2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "看客影视",
