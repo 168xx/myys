@@ -108,12 +108,12 @@
     },
     {
       "key": "看影🏮秒播",
-      "name": "看影┃秒播",
+      "name": "看影丨秒播",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": ".https://framagit.org/168/myys/-/raw/main/bb/jar/lib/hysxb.txt",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/lib/hysxb.txt",
       "filterable": 1
     },
    {
@@ -1295,7 +1295,7 @@
       "url": "http://盒子迷.top/ZB",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
    {
   "name":"IPV6直播",
   "type":0,
