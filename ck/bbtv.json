@@ -58,6 +58,14 @@
       ]
     },
     {
+      "key": "狂徒影视",
+      "name": "狂徒｜优选",
+      "type": 3,
+      "api": "csp_APPTT",
+      "playerType": 1,
+      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+    },
+    {
       "key": "csp_MiTuApp",
       "name": "米兔丨资源",
       "type": 3,
