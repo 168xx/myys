@@ -58,12 +58,68 @@
       ]
     },
     {
+      "key": "小天稳定",
+      "name": "👻小天｜稳定",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+      }
+    },
+    {
+      "key": "热播稳定",
+      "name": "热播｜稳定",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
+      }
+    },
+    {
       "key": "狂徒影视",
       "name": "狂徒｜优选",
       "type": 3,
       "api": "csp_APPTT",
       "playerType": 1,
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+    },
+    {
+      "key": "繁星影视",
+      "name": "繁星｜影视",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg=="
+    },
+    {
+      "key": "河谷影视",
+      "name": "河谷｜影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    },
+    {
+      "key": "天才稳定",
+      "name": "天才｜首选",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "csp_MiTuApp",
