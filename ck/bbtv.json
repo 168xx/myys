@@ -556,16 +556,6 @@
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/dyg.json"
     },
     {
-      "key": "会员专享18",
-      "name": "恋影 | 专享",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/tg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "会员专享25",
       "name": "五五 | 影视",
       "type": 3,
@@ -576,24 +566,6 @@
       "filterable": 1,
       "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/五五影视.json"
     },
-    {
-      "key": "会员专享16",
-      "name": "看了 | 影视",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/lib/drpy.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/看了么.js"
-    },
-    {
-      "key": "賤賤",
-      "name": "荐片 | 影视",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "https://gitee.com/wxbtt/box/raw/master/pg.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/wxbtt/box/raw/master/lib/jianpian.json$$$1",
-      "timeout":60
-   }, 
   {
       "key": "爱看直连",
       "name": "爱看丨直连",
