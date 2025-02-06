@@ -1288,7 +1288,15 @@
     }
   ],
 "lives":[
-	  {
+    {
+      "name": "轩蓓直播",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://盒子迷.top/ZB",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+   {
   "name":"IPV6直播",
   "type":0,
   "url":"https://live.zbds.top/tv/iptv6.m3u",
@@ -1296,16 +1304,7 @@
   "ua":"okhttp/3.15",
   "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
-             },	
-	{
-           "name": "云星线路",
-		   "boot":true,
-      "type": 0,
-      "url": "http://itvbox.cc/云星日记/如意直播/如意直播.txt",
-      "playerType": 1,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },
+     },	
     {
         "name": "春盈IPV6-IPV4",
 		"boot":true,
@@ -1322,9 +1321,7 @@
         "url": "http://rihou.cc:555/gggg.nzk",
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    
-        
+    },        
     {
         "name": "IPV6源",
 		"boot":true,
