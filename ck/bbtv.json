@@ -59,6 +59,7 @@
       "quickSearch": 0,
       "ext": ""
     },
+    {"key":"南瓜影视","name":"💡南瓜｜影视","type":3,"api":"csp_NanGua",      "jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/jar.php";md5;0baaf4986d05c592008d8248f4624f94,searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "量子",
       "name": "量子丨秒播",
@@ -84,16 +85,6 @@
         "爱情片",
         "喜剧片"
       ]
-    },
-    {
-      "key": "南瓜弹幕",
-      "name": "南瓜｜弹幕",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "蝴蝶",
