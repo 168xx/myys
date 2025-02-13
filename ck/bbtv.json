@@ -13,6 +13,17 @@
       "filterable": 0
     },
     {
+      "key": "版本信息",
+      "name": "🐏本地┃肥羊┃直播",
+      "type": 3,
+      "api": "csp_Market",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/PizazzGY.php",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=ailive"
+    },
+    {
       "key": "drpyS_鬼片之家",
       "name": "片之家丨DS",
       "type": 4,
@@ -73,6 +84,16 @@
         "爱情片",
         "喜剧片"
       ]
+    },
+    {
+      "key": "南瓜弹幕",
+      "name": "🎃南瓜｜蓝光",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "小天稳定",
