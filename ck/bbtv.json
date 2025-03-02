@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "蓓蓓影院〖涛哥愿你在2025立下壮志，全年拼搏皆有所成！〗",
+      "name": "蓓蓓影院〖 涛哥愿你在2025立下壮志，全年拼搏皆有所成 〗",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -439,7 +439,7 @@
     },
     {
             "key": "热播弹幕",
-            "name": "热播丨影视",
+            "name": "热播丨弹幕",
             "type": 3,
             "api": "csp_ReBo",
             "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fenghuang.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
