@@ -59,7 +59,18 @@
       "quickSearch": 0,
       "ext": ""
     },
-    {"key":"南瓜影视","name":"南瓜｜影视","type":3,"api":"csp_NanGua","jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/jar.php;md5;0baaf4986d05c592008d8248f4624f94",searchable":1,"quickSearch":1,"filterable":1},
+    {
+      "key": "文采",
+      "name": "文采｜纯净",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/moyu.php;md5;be6121b5c37471b191114027123912d2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {"key":"南瓜影视","name":"南瓜｜影视","type":3,"api":"csp_NanGua","jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/moyu.php;md5;be6121b5c37471b191114027123912d2",searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "量子",
       "name": "量子丨秒播",
@@ -480,19 +491,6 @@
       "api": "csp_Jianpian",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
       "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "文才弹幕",
-      "name": "文才丨弹幕",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/htv.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
