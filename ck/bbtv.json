@@ -71,6 +71,7 @@
       "changeable": 1
     },
     {"key":"移动","name":"移动｜影视","type":3,"api":"csp_YDjisu","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"changeable":1},
+{"key":"浪酷弹幕","name":"浪酷｜弹幕","type":3,"api":"csp_TianTian","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="}},
     {"key":"南瓜影视","name":"南瓜｜影视","type":3,"api":"csp_NanGua","jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/moyu.php;md5;be6121b5c37471b191114027123912d2",searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "量子",
