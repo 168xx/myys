@@ -103,6 +103,25 @@
       ]
     },
     {
+      "key": "瓜子影视",
+      "name": "瓜子｜3K",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/mutou.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "木头",
+      "name": "木头｜4K",
+      "type": 3,
+      "api": "csp_Shark",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/mutou.png",
+      "playerType": 1,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
+    {
       "key": "蝴蝶",
       "name": "蝴蝶｜蓝光",
       "type": 3,
