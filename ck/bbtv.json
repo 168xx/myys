@@ -127,6 +127,15 @@
       "playerType": 2,
       "ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ=="
     },
+    {
+      "key": "23ys",
+      "name": "二三丨App",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
    {
       "key": "量子",
       "name": "量子丨秒播",
