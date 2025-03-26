@@ -64,9 +64,33 @@
       "name": "涛哥｜追剧",
       "type": 3,
       "api": "csp_TTian",
-      "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
       "playerType": 1,
       "ext": "daHR0cDovL3YubGt1eXMuY24="
+    },
+   {
+      "key": "AI2",
+      "name": "AI2┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk="
+    },
+    {
+      "key": "AI3",
+      "name": "AI3┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ=="
     },
     {
       "key": "文采",
