@@ -70,7 +70,7 @@
     },
    {
       "key": "AI2",
-      "name": "AI2┃仅搜索",
+      "name": "AI2｜仅搜索",
       "type": 3,
       "api": "csp_AI",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
@@ -82,7 +82,7 @@
     },
     {
       "key": "AI3",
-      "name": "AI3┃仅搜索",
+      "name": "AI3｜仅搜索",
       "type": 3,
       "api": "csp_AI",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
