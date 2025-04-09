@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "蓓蓓影院〖 2025的星火已在脚下点燃，每个带着勇气的行动都是未来燎原的光芒，此刻启程的每一步都通向星辰大海 〗",
+      "name": "蓓蓓影院〖 未来属于那些在不确定中依然播种希望，用行动为可能性扎根的人 〗",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -76,6 +76,18 @@
    {"key":"浪酷弹幕","name":"浪酷｜弹幕","type":3,"api":"csp_TianTian","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="}},
    {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":0,"filterable":0},
   {"key":"全网","name":"全网｜影视","type":3,"api":"csp_Quanwk","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.91qkw.com"},
+    {
+      "key": "萌米",
+      "name": "萌米｜多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fty.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
+    },
     {
       "key": "追剧",
       "name": "涛哥｜追剧",
