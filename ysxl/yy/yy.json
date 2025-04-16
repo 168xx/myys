@@ -4,16 +4,28 @@
   "logo": "https://framagit.org/168/myys/-/raw/main/yy/mtv.gif",
   "lives": [
     {
-      "name": "TGlive",
+      "name": "live",
       "type": 0,
-      "playerType": 2,
-      "url": "./java/lib/yinyue.png"
+      "url": "https://ys.2723212.xyz/ysxl/yy/lib/fm.txt",
+      "ua": "okhttp/3.15",
+      "logo": "https://live.fanmingming.com/radio/{name}.png"
     }
   ],
   "sites": [
     {
+      "key": "音乐仓",
+      "name": "涛哥音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ys.2723212.xyz/ysxl/yy/lib/fty.jar;md5;e85e180ec8caae0d38c78a021a2494e0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://ys.2723212.xyz/ysxl/yy/lib/yy.json"
+    },
+    {
       "key": "哔哩",
-      "name": "涛哥音乐台",
+      "name": "音乐台",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,

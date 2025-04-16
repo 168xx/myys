@@ -1,0 +1,25 @@
+{
+  "spider": "./lib/fty.jar;md5;e85e180ec8caae0d38c78a021a2494e0",
+  "wallpaper": "https://bing.img.run/rand.php",
+  "sites": [
+    {
+      "key": "音乐仓",
+      "name": "微信公众号：玉玉应用笔记",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./lib/yy.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/fm.txt",
+      "ua": "okhttp/3.15",
+      "logo": "https://live.fanmingming.com/radio/{name}.png"
+    }
+  ]
+}
