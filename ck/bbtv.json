@@ -1205,21 +1205,21 @@
   ],
 "lives":[
     {
+      "name": "涛哥直播",
+      "type": 0,
+      "url": "https://dianshi-1cn.pages.dev/output/iptv.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name": "轩蓓直播",
       "type": 0,
       "playerType": 1,
       "url": "http://盒子迷.top/ZB",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "摸鱼AI直播",
-      "type": 0,
-      "url": "http://我不是.摸鱼儿.com/live.php",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "肥羊直播",
