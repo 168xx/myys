@@ -11,18 +11,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "版本信息",
-      "name": "🐏本地┃肥羊┃直播",
-      "type": 3,
-      "api": "csp_Market",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/moyu/PizazzGY.php",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=ailive"
-    },
+   },
   {
       "key": "T4-jp",
       "name": "荐片丨T4",
@@ -88,17 +77,6 @@
       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
     },
     {
-      "key": "白白",
-      "name": "白白｜秒播",
-      "type": 3,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xdfty.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
-      "api": "csp_SbaibaiGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "欢视",
       "name": "欢视｜多线",
       "type": 3,
@@ -109,42 +87,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "uqGL1bNENExT9fFAy5mE5qU="
-    },
-   {
-      "key": "聚合资源",
-      "name": "聚合资源",
-      "type": 1,
-      "api": "https://www.caiji.cyou/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "剧情片",
-        "战争片",
-        "犯罪片",
-        "惊悚片",
-        "冒险片",
-        "悬疑片",
-        "奇幻片",
-        "其他片",
-        "国产剧",
-        "港台剧",
-        "欧美剧",
-        "日韩剧",
-        "其他剧",
-        "bilibili番剧",
-        "bilibili国创",
-        "bilibili电影",
-        "bilibili电视剧",
-        "动画片",
-        "动漫",
-        "综艺",
-        "记录片"
-      ]
     },
    {
       "key": "AI2",
