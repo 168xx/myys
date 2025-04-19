@@ -67,27 +67,6 @@
       "playerType": 1,
       "ext": "daHR0cDovL3YubGt1eXMuY24="
     },
-    {
-      "key": "柠檬",
-      "name": "柠檬｜App",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
-    },
-    {
-      "key": "欢视",
-      "name": "欢视｜多线",
-      "type": 3,
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xdfty.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT9fFAy5mE5qU="
-    },
    {
       "key": "AI2",
       "name": "AI2｜仅搜索",
