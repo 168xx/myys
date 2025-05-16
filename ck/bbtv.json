@@ -18,6 +18,12 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/jianpian.php"
     },
+    {
+      "key": "T4-caiji",
+      "name": "采集丨T4",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/caiji.php"
+    },
    {"key":"移动","name":"移动｜影视","type":3,"api":"csp_YDjisu","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"changeable":1},
    {"key":"瓜子","name":"瓜子｜影视","type":3,"api":"csp_Gz360","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":1,"filterable":1},
    {"key":"韩小圈","name":"韩小｜影视","type":3,"api":"csp_HanXiaoQuan","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":1,"filterable":1},
@@ -753,10 +759,10 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "肥羊直播",
+      "name": "diyp直播",
       "type": 3,
       "api": "csp_Feiyang",
-      "url": "https://framagit.org/168/myys/-/raw/main/moyu/live.m3u",
+      "url": "http://iptv.diyp.site/diyp.php",
       "timeout": 10,
       "ua": "okhttp/3.15"
     },
