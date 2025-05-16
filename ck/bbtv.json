@@ -776,10 +776,10 @@
   "logo":"https://epg.112114.eu.org/logo/{name}.png"
      },	
     {
-        "name": "春盈IPV6-IPV4",
+        "name": "悠悠电视",
 		"boot":true,
         "type": 0,
-        "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives/feihu6.txt",
+        "url": "http://8.146.211.219:3000/private/iptv_source.txt",
         "epg": "http://epg.tvcms.top/api/diyp/",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
