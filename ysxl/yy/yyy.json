@@ -1,19 +1,31 @@
 {
-  "spider": "./danmu.jar",
-  "wallpaper": "http://tool.teyonds.com/api/",
-  "logo": "http://mzjk.top/音乐/java/logo.jpg",
+  "spider": "https://ys.2723212.xyz/ysxl/yy/TG.jar",
+  "wallpaper": "涛哥音乐：荧屏流光曲悠扬，心随律动梦徜徉",
+  "logo": "https://framagit.org/168/myys/-/raw/main/yy/mtv.gif",
   "lives": [
     {
-      "name": "涛涛live",
+      "name": "live",
       "type": 0,
-      "playerType": 2,
-      "url": "http://mzjk.top/音乐/java/lib/yinyue.png"
+      "url": "https://ys.2723212.xyz/ysxl/yy/lib/fm.txt",
+      "ua": "okhttp/3.15",
+      "logo": "https://live.fanmingming.com/radio/{name}.png"
     }
   ],
   "sites": [
     {
+      "key": "音乐仓",
+      "name": "涛哥音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ys.2723212.xyz/ysxl/yy/lib/fty.jar;md5;e85e180ec8caae0d38c78a021a2494e0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://ys.2723212.xyz/ysxl/yy/lib/yy.json"
+    },
+    {
       "key": "哔哩",
-      "name": "涛哥工作室音乐盒",
+      "name": "音乐台",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -23,7 +35,7 @@
     },
     {
       "key": "js_车载MV",
-      "name": "车载🎧音乐",
+      "name": "TG-车载音乐",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -33,7 +45,7 @@
     },
     {
       "key": "yinyue",
-      "name": "榜单🎧音乐",
+      "name": "TG-榜单音乐",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 1,
@@ -46,7 +58,7 @@
     },
     {
       "key": "分类音乐",
-      "name": "分类🎧音乐",
+      "name": "TG-分类音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -56,7 +68,7 @@
     },
     {
       "key": "hipy_js_KTV歌厅[听]",
-      "name": "明星🎧歌厅",
+      "name": "TG-明星歌厅",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -67,7 +79,7 @@
     },
     {
       "key": "TAOIktv",
-      "name": "明星🎧备用",
+      "name": "TG-明星备用",
       "type": 3,
       "api": "csp_WexIktv",
       "jar": "./lib/wex.txt",
@@ -76,7 +88,7 @@
     },
     {
       "key": "舞蹈音乐",
-      "name": "舞蹈🎧音乐",
+      "name": "TG-舞蹈音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -86,7 +98,7 @@
     },
     {
       "key": "哟哟音乐",
-      "name": "动感🎧哟哟",
+      "name": "TG-动感哟哟",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -96,7 +108,7 @@
     },
     {
       "key": "酷奇",
-      "name": "酷奇🎧MV",
+      "name": "TG-酷奇MV",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/酷奇MV.js",
@@ -110,7 +122,7 @@
     },
     {
       "key": "吾爱演唱会",
-      "name": "哔哩🎧演唱",
+      "name": "TG-哔哩演唱",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -120,14 +132,14 @@
     },
     {
       "key": "直播转点播",
-      "name": "音乐🎧点播",
+      "name": "TG-音乐点播",
       "type": 3,
       "api": "./lib/zbzdb.js",
       "ext": "http://www.jielifan.com/data/f_85446651.png"
     },
     {
       "key": "drpy_js_蜻蜓FM",
-      "name": "蜻蜓🎧FM",
+      "name": "TG-蜻蜓FM",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/蜻蜓FM.js",
@@ -135,7 +147,7 @@
     },
     {
       "key": "hipy_js_种子音乐[听]",
-      "name": "种子🎧音乐",
+      "name": "TG-种子音乐",
       "type": 3,
       "api": "./lib/drpy3.min.js",
       "searchable": 1,
@@ -146,7 +158,7 @@
     },
     {
       "key": "hipy_js_贝乐虎[儿]",
-      "name": "贝乐🎧儿歌",
+      "name": "TG-贝乐儿歌",
       "type": 3,
       "api": "./lib/drpy3.min.js",
       "searchable": 1,
@@ -157,7 +169,7 @@
     },
     {
       "key": "健身瑜伽",
-      "name": "健身🎧瑜伽",
+      "name": "TG-健身瑜伽",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -167,7 +179,7 @@
     },
     {
       "key": "公告",
-      "name": "定期重置清理垃圾",
+      "name": "涛哥音乐：请定期清缓存",
       "type": 3,
       "api": "",
       "searchable": 1,
