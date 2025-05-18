@@ -30,6 +30,13 @@
    {"key":"浪酷弹幕","name":"浪酷｜弹幕","type":3,"api":"csp_TianTian","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="}},
    {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":0,"filterable":0},
     {
+      "key": "小慧",
+      "name": "小慧｜4K",
+      "type": 1,
+      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
+    },
+    {
       "key": "欢视",
       "name": "欢视｜多线",
       "type": 3,
