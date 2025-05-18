@@ -30,6 +30,18 @@
    {"key":"浪酷弹幕","name":"浪酷｜弹幕","type":3,"api":"csp_TianTian","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="}},
    {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/ou.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54","searchable":1,"quickSearch":0,"filterable":0},
     {
+      "key": "csp_追忆",
+      "name": "追忆｜4K",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%8E%89%E7%8E%89%E5%BA%94%E7%94%A8%E7%AC%94%E8%AE%B0/js/zy.js",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "http://zy.qxq6.com/app/syapi.txt"
+    },
+    {
       "key": "小慧",
       "name": "小慧｜4K",
       "type": 1,
